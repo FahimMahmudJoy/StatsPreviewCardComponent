@@ -83,10 +83,11 @@ img {
 @media (max-width: 1100px) {
     body {
         margin: 5% auto;
+        font-size: 12px;
     }
 
     .container {
-        max-width: 350px;
+        max-width: 250px;
     }
 
     main {
@@ -105,7 +106,7 @@ img {
     }
 
     p {
-        margin: 0 3em 1em 0;
+        margin: 0 2.5em 0.5em 0;
     }
 
     .text-content {
@@ -115,7 +116,7 @@ img {
     }
 
     ul {
-        margin-right: 5.75em;
+        margin-right: 6.75em;
     }
 
     li {
